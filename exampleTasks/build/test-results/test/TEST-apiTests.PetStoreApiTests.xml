@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="apiTests.PetStoreApiTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-10-23T12:24:43" hostname="MacBook-Pro-7" time="2.527">
+  <properties/>
+  <testcase name="Проверка создания животного через ручку /v2/pet" classname="apiTests.PetStoreApiTests" time="1.279"/>
+  <testcase name="Проверка поиска животного по id через ручку /v2/pet/{id}" classname="apiTests.PetStoreApiTests" time="1.248"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
